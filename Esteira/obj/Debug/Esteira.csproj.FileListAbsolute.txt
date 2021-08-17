@@ -1,0 +1,10 @@
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\bin\Debug\Esteira.exe.config
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\bin\Debug\Esteira.exe
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\bin\Debug\Esteira.pdb
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.csproj.AssemblyReference.cache
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.frmPrincipal.resources
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.Properties.Resources.resources
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.csproj.GenerateResource.cache
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.csproj.CoreCompileInputs.cache
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.exe
+C:\Desenv\MyCode\Esteira\Esteira\Esteira\obj\Debug\Esteira.pdb
